@@ -1,9 +1,9 @@
 <div align=center>
-[![Portfolio](https://img.shields.io/badge/Portfolio-4fc3f7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.emilboen.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emil-boen/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-emilboen.dev-4fc3f7?style=for-the-badge&logo=pipecat&logoColor=lightblue)](https://www.emilboen.dev)
   
-</div>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <h2>I do some code sometimes</h2>
+</div>
 
 <div align="center">
 

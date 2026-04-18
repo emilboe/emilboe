@@ -1,6 +1,9 @@
-<div align=center><h1>howdy ✨ </h1>
-<h2>I do some code sometimes</h2>
+<div align=center>
+[![Portfolio](https://img.shields.io/badge/Portfolio-4fc3f7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.emilboen.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emil-boen/)
+  
 </div>
+<h2>I do some code sometimes</h2>
 
 <div align="center">
 
@@ -59,5 +62,9 @@
 <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black"/>
 <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<br/><br/>
 
 </div>
+
+
+

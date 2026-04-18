@@ -1,7 +1,7 @@
 <div align=center>
-[![Portfolio](https://img.shields.io/badge/Portfolio-emilboen.dev-4fc3f7?style=for-the-badge&logo=pipecat&logoColor=lightblue)](https://www.emilboen.dev)
-  
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+[<img src="https://img.shields.io/badge/Portfolio-emilboen.dev-4fc3f7?style=for-the-badge&logo=pipecat&logoColor=lightblue"/>](https://www.emilboen.dev)
+
 <h2>I do some code sometimes</h2>
 </div>
 
